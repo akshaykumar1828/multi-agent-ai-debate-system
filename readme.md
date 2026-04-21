@@ -102,4 +102,4 @@ Add a screenshot of your terminal output:
 
 ![Demo Output](assets/demo.png)
 
-> 📌 Note: Place your screenshot inside an `assets/` folder in the project root.
+
